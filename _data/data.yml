@@ -88,15 +88,7 @@ experiences:
       time: 2017 - 2017
       company: Dams International, Knowsley
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+
 
           - Installed operating systems.
           - Managed company emails through Microsoft Active.
@@ -108,57 +100,40 @@ experiences:
       time: 2017 - 2017
       company: Economic Data Services (EDSL), Golbourne
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+
 
           - Hardware Management for a new server.
           - Installed windows 2012 Server and initialised GPO settings
           - Developing programs and debugging C# code for Sage integrated
           software.
 
-    - role:
-      time:
-      company:
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          -
-          -
 
 projects:
     title: University Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
 
     assignments:
       - title: Sports Website
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An innovative website designed for the public to see tennis match timetables and statistics."
 
       - title: Fastfood Website
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Developed a Fastfood Website using C# for Back-end Programming."
 
       - title: Inventory System
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "System created for renting university hardware out as part of a project team."
 
       - title: TextBased Adventure Game
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Game Script made C++."
 
       - title: Word Assosiation Game
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Word Game created in C#"
 
 publications:
     title: Publications
