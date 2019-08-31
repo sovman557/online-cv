@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Na_graham@sky.com
+    email: na_graham@sky.com
     phone: +44 (0) 7568 099 450
     website: Sovman557.github.io #do not add http://
     linkedin:
@@ -28,11 +28,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom:
-        level:
+      - idiom: HTML/CSS/JS
+        level: intermediate
 
-      - idiom:
-        level:
+      - idiom: Java
+        level: Intermediate
+
+      - idiom: C++ & C#
+        level: Intermediate
+
+      - idiom: C & Python
+        level: Novice
 
     interests:
       - item: Climbing
@@ -120,62 +126,61 @@ projects:
         tagline: "An innovative website designed for the public to see tennis match timetables and statistics."
 
       - title: Fastfood Website
-        link: "#"
+        link: "https://sovman577.github.io"
         tagline: "Developed a Fastfood Website using C# for Back-end Programming."
 
       - title: Inventory System
-        link: "#"
+        link: "https://sovman577.github.io"
         tagline: "System created for renting university hardware out as part of a project team."
 
       - title: TextBased Adventure Game
-        link: "#"
+        link: "https://sovman577.github.io"
         tagline: "Game Script made C++."
 
       - title: Word Assosiation Game
-        link: "#"
+        link: "https://sovman577.github.io"
         tagline: "Word Game created in C#"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Game development in C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Game development in C#
         level: 98%
 
-      - name: Angular
+      - name: Full-stack Web Development
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Jekyll themes
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python & C
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
