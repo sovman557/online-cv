@@ -166,19 +166,19 @@ skills:
 
     toolset:
       - name: Game development in C++
-        level: 98%
+        level: 80%
 
       - name: Game development in C#
-        level: 98%
+        level: 80%
 
-      - name: Full-stack Web Development
-        level: 98%
+      - name: Full-stack Web Dev
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
       - name: Jekyll themes
-        level: 85%
+        level: 70%
 
       - name: Python & C
         level: 60%
